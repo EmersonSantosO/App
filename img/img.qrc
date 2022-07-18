@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="img_const">
+    <file>cons.jpg</file>
+  </qresource>
+</RCC>
